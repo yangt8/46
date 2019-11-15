@@ -1,0 +1,3 @@
+echo     ------------compiling main.ccp to create executable program main----------------
+------------compiling main.ccp to create executable program main----------------
+g++  -ggdb   -std=c++11   main.cpp   -o   main
